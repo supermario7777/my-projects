@@ -2,6 +2,7 @@ body {
     padding: 164px 456px 200px 456px;
     background-color: #FAFAF9;
     margin: 0px 0px 0px 0px;
+    width: 1280px;
 }
 
 .card {
@@ -9,9 +10,8 @@ body {
     flex-direction: column;
     background-color: white;
     border-radius: 10px;
-    max-width: 1280px;
+    width: auto;
 }
-
 
 img {
     margin: 16px 16px 16px 16px;
